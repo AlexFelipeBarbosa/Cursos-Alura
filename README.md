@@ -1,2 +1,2 @@
 # Alura
-repositório de cursos da Alura
+Repositório para Jornada em Engenharia de Dados da Alura

@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+env/
+
+# Configuração e credenciais
+*.env
+*.ini
+*.cfg
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+
+# Arquivos textos gerados
+/05-PandasIO/clientes_mercado.csv
