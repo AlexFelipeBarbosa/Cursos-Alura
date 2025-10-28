@@ -1,3 +1,6 @@
+# Arquivos textos gerados
+05-PandasIO/clientes_mercado.csv
+05-PandasIO/emissoes_CO2.xlsx
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
@@ -95,7 +98,3 @@ __pycache__/
 
 # Pylint
 .pylint.d/
-
-
-# Arquivos textos gerados
-/05-PandasIO/clientes_mercado.csv
