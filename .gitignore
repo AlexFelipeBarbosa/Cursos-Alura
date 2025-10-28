@@ -1,6 +1,10 @@
 # Arquivos textos gerados
-05-PandasIO/clientes_mercado.csv
-05-PandasIO/emissoes_CO2.xlsx
+01-PythonParaDataScience/05-PandasIO/clientes_mercado.csv
+01-PythonParaDataScience/05-PandasIO/*.xlsx
+01-PythonParaDataScience/05-PandasIO/historico_pacientes_normalizado.json
+
+
+
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
