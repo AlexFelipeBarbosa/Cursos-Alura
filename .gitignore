@@ -1,19 +1,100 @@
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Virtual env
+# Virtual environments
 venv/
 env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
 
-# Configuração e credenciais
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Normalmente esses arquivos são criados por um script do PyInstaller
+# a partir de templates no diretório de build
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Traduções
+*.mo
+*.pot
+
+# Documentação
+docs/_build/
+build/
+tmp/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações locais
 *.env
+.env
+.env.*
 *.ini
 *.cfg
+*.local
 
-# Arquivos temporários
-*.log
-.DS_Store
+# Banco de dados local / cache
+db.sqlite3
+*.db
+
+# Arquivos de Jupyter
+.ipynb_checkpoints
+jupyter_cache/
+__pycache__/
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+.pylint.d/
 
 
 # Arquivos textos gerados
